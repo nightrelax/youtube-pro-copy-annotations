@@ -2,7 +2,7 @@
 
 > Copy YouTube annotations like a pro!
 
-Go to [the website](https://stefansundin.github.io/youtube-pro-copy-annotations/youtube-copy-annotations.html) to try the script right now. Instructions inside.
+Go to [the website](https://nightrelax.github.io/youtube-pro-copy-annotations/youtube-copy-annotations.html) to try the script right now. Instructions inside.
 
 Post feedback and comments [on the blog post](https://stefansundin.com/blog/277).
 
